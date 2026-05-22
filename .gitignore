@@ -1,0 +1,12 @@
+# Virtual Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Project specific ignores
+data/
+model/
+temp_audio.mp3
