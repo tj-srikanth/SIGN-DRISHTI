@@ -26,7 +26,7 @@ This project was also developed with the support of AI-assisted development tool
 The project is organized into three main functional folders—**scripts**, **data**, and **model**—to separate the application logic from the training workflow.
 
 
-<img src="Project_Directory.jpg" alt="Project Structure" width="600"/>
+<img src="ProjectStructure.jpg" alt="Project Structure" width="600"/>
 
 ---
 
