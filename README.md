@@ -38,8 +38,8 @@ Follow these four steps sequentially to set up the environment, generate data, t
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Sairam06-04/RealTime-Sign-Recognition.git
-    cd RealTime-Sign-Recognition
+    git clone https://github.com/Sairam06-04/SIGN-DRISHTI
+    cd SIGN-DRISHTI
     ```
 
 2.  **Create Folders:** You must manually create the empty directories:
