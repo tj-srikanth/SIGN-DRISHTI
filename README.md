@@ -1,8 +1,12 @@
 # 🤖 Real-Time Sequential Sign Recognition and Translation
 
+**Final Year Project At Dayananda Sagar Academy of Technology and Management**
+
 This project focuses on real-time sign language recognition and translation using Machine Learning, MediaPipe, and Computer Vision techniques. The system detects hand gestures through a webcam, converts recognized gestures into meaningful sentences, and provides multilingual translation and text-to-speech support to improve communication accessibility.
 
 The application was developed using Python, PySide6 (Qt), MediaPipe Hands, Logistic Regression, OpenCV, Google Translate API, gTTS, and Pygame Mixer.
+
+> **NOTE:** This project was also developed with the support of AI-assisted development tools, including Google Gemini, for rapid prototyping, debugging assistance, workflow acceleration, and development support.
 
 ---
 
